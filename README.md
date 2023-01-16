@@ -10,4 +10,4 @@
 ## О проекте
 
 Это многоцелевое приложение с использованием Laravel 9 и Vue 3. Я пишу его в учебных целях. Проходя видео курс на 
-[Youtube](https://www.youtube.com/playlist?list=PLGg3vnFos8GN3MAvxbI-QXKSkBKi2yIFO)
+[Youtube канале Clovon](https://www.youtube.com/playlist?list=PLGg3vnFos8GN3MAvxbI-QXKSkBKi2yIFO)
